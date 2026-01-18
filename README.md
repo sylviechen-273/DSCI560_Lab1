@@ -1,7 +1,7 @@
 # Lab 1: Web Scraping & Data Filtering (CNBC)
 
-name: Shufen Chen
-USCID: 9180940635
+name: Shufen Chen<br>
+USCID: 9180940635<br>
 
 This project scrapes the CNBC webside into a HTML file and extracts the spefic elements from the Market Banner as well as the Latest News list.
 ---
@@ -39,23 +39,23 @@ Lab1/<br>
 
 
 ## Setup
-Make sure Python3 and pip are installed.
-Install required packages:
-pip install bs4
-pip install selenium
+Make sure Python3 and pip are installed.<br>
+Install required packages:<br>
+pip install bs4<br>
+pip install selenium<br>
 
 ## How to Run
-1. Locate in the target folder
-cd Lab1/Shufen_Chen_9180940635/scripts
+1. Locate in the target folder<br>
+cd Lab1/Shufen_Chen_9180940635/scripts<br>
 
-2. Run the user name testing file
-python3 task_1.py
+2. Run the user name testing file<br>
+python3 task_1.py<br>
 
-3. Run web scraper
-python3 web_scraper.py
+3. Run web scraper<br>
+python3 web_scraper.py<br>
 
-4. Run data filter
-python3 data_filter.py
+4. Run data filter<br>
+python3 data_filter.py<br>
 
 
 ## Output Files
